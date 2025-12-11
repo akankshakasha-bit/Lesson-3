@@ -1,0 +1,12 @@
+a=18000
+print("a=",a,type(a))
+b=2.3
+print("b=",b,type(b))
+c=False
+print("c=",c,type(c))
+d="0.67"
+print("d=",d,type(d))
+b1=int(b)
+print("b1=",b1,type(b1))
+a1=float(a)
+print("a1=",a1,type(a1))
